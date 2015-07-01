@@ -1,0 +1,1 @@
+Script to scan your inbox for frequently used phrases that you should turn into a CR!
